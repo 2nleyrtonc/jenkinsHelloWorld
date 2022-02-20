@@ -1,4 +1,4 @@
-public class testhelloworld 
+public class TesthelloWorld 
 {
     public static void main
     (
@@ -11,3 +11,5 @@ public class testhelloworld
         );
     }
 }
+
+    
